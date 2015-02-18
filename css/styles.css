@@ -1,0 +1,38 @@
+body {
+  background-image: url("../public/img/ren_heart.gif");
+  background-repeat: no-repeat;
+  background-color: #B82536;
+}
+
+#title {
+  text-align: center;
+  color: white;
+}
+
+#title2 {
+  text-align: center;
+  color: red;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+#new-package {
+  text-align: center;
+}
+
+#selectOrgan {
+  text-align: center;
+}
+
+#cost {
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+}
